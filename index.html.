@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <body>
+        <style>
+        body {
+            background-color:rgb(82, 204, 169);
+            font-size:13px;
+        }
+        h1 {
+            color:rgb(17, 58, 184);
+            font-family:sans-serif;
+            font-size:2em;
+        }
+        h2 {
+            font-family:sans-serif;
+            font-size:2em;
+        }
+        h3 
+            {
+            font-family:sans-serif;
+            font-size:2em;
+            text-decoration:underline;
+            }
+        thead {
+            text-decoration:underline;
+            font-size:1.5em;
+        }
+            
+        h4 {
+            font-family:sans-serif;
+            font-size:15px;
+        }
+            p {
+               font-family:cursive;
+               font-style:italic;
+               font-weight:bold;
+               line-height:1.5em;
+               
+            }
+            ul {
+                font-size:2em;
+                text-align:center;
+            }
+        </style>
+        <h1>My journey to Amsterdam</h1>
+
+        <h3>Contents</h3>
+        <table>
+            <thead>
+                <tr>
+                <th>Country</th>
+                <th> Province</th>
+                <th> City Hall</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Netherlands</td>
+                    <td> North Holland</td>
+                    <td> Stopera</td>
+                </tr>
+            </tbody>
+        </table>
+        <ul>
+            <li><a href="#am">Amsterdam light festival</a> </li>
+            <li><a href="#vg">Vist to Van Gogh museum</a></li>
+            <li><a href="#dam">Tour through the city of  Amsterdam </a> </li>
+        </ul>
+        
+        <h2 id="am">First post</h2>
+        <h4>26-12-2018</h4>
+        
+        <p>Amsterdam light festival</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Amsterdam_Carre_Theatre_featuring_Big_Tree_by_Jacques_Rival_2.jpg" width="200">
+        
+        <h2 id="vg">Second post</h2>
+        <h4>27-12-2018</h4>
+        
+        <h3> <a href="https://en.wikipedia.org/wiki/Van_Gogh_Museum"> Vist to Van Gogh museum</a></h3>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Museumkwartier_%2C_Amsterdam_%2C_Netherlands_-_panoramio_%289%29.jpg" width="200">
+        <p>The Van Gogh Museum is an Dutch art museum dedicated to the works of Vincent van Gogh and his contemporaries in Amsterdam; it is located at the Museum Square in the borough Amsterdam South, close to the Stedelijk Museum, the Rijksmuseum, and the Concertgebouw.[7] The museum opened on 2 June 1973,[2] and its buildings were designed by Gerrit Rietveld and Kisho Kurokawa.
+The museum contains the largest collection of Van Gogh's paintings and drawings in the world. In 2017, the museum had 2.3 million visitors, and was the most visited museum in the Netherlands, and the 23rd most visited art museum in the world. In 2019, the Van Gogh Museum launched the Meet Vincent Van Gogh Experience, a technology-driven "immersive exhibition" on Van Gogh's life and works, which has toured globally.</P>
+        
+        <h2 id="dam">Third post :<a href="https://en.wikipedia.org/wiki/Amsterdam"> Amsterdam </a></h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Amsterdam_-_Boat_-_0635.jpg" width="200">
+        <h6>28-12-2018 <br>
+            Tour through the city of Amsterdam
+        </h6>
+        
+        <p>Amsterdam is the capital and most populous city of the Netherlands, with a population of 866,737 within the city proper, 1,380,872 in the urban area,[5] and 2,410,960 in the metropolitan area. Amsterdam is in the province of North Holland. Amsterdam is colloquially referred to as the "Venice of the North" due to its large number of canals which are a UNESCO World Heritage Site.<br>
+Amsterdam's name derives from Amstelredamme, indicative of the city's origin around a dam in the river Amstel. Originating as a small fishing village in the late 12th century, Amsterdam became one of the most important ports in the world in the Dutch Golden Age of the 17th century and became the leading centre for finance and trade. In the 19th and 20th centuries, the city expanded, and many new neighbourhoods and suburbs were planned and built. The 17th-century canals of Amsterdam and the 19–20th century Defence Line of Amsterdam are on the UNESCO World Heritage List. Sloten, annexed in 1921 by the municipality of Amsterdam, is the oldest part of the city, dating to the 9th century.<br>
+As the commercial capital of the Netherlands and one of the top financial centres in Europe, Amsterdam is considered an alpha-world city by the Globalization and World Cities study group. The city is also the cultural capital of the Netherlands. Many large Dutch institutions have their headquarters there, including Philips, AkzoNobel, TomTom and ING. Also, many of the world's largest companies are based in Amsterdam or have established their European headquarters in the city, such as leading technology companies Uber, Netflix and Tesla.[18] In 2012, Amsterdam was ranked the second best city to live in by the Economist Intelligence Unit (EIU)[19] and 12th globally on quality of living for environment and infrastructure by Mercer. The city was ranked 4th place globally as top tech hub in the Savills Tech Cities 2019 report (2nd in Europe), and 3rd in innovation by Australian innovation agency 2thinknow in their Innovation Cities Index 2009.[22] The Port of Amsterdam is the fifth largest in Europe. Famous Amsterdam residents include the diarist Anne Frank, artists Rembrandt and Van Gogh, and philosopher Baruch Spinoza.<br>
+The Amsterdam Stock Exchange is the oldest stock exchange in the world. Amsterdam's main attractions include its historic canals, the Rijksmuseum, the Van Gogh Museum, the Stedelijk Museum, Hermitage Amsterdam, the Concertgebouw, the Anne Frank House, the Scheepvaartmuseum, the Amsterdam Museum, the Heineken Experience, the Royal Palace of Amsterdam, Natura Artis Magistra, Hortus Botanicus Amsterdam, NEMO, the red-light district and many cannabis coffee shops. They draw more than 5 million international visitors annually.[24] The city is also well known for its nightlife and festival activity; several of its nightclubs (Melkweg, Paradiso) are among the world's most famous. It is also one of the world's most multicultural cities, with at least 177 nationalities represented.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Netherlands_relief_location_map.svg" width="200">
+    </body>
+</html>
